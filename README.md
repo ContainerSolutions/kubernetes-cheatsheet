@@ -6,7 +6,7 @@ Switch namespace with [kns](https://github.com/blendle/kns)
 
 ```
 $ kns
-*arrow up/down*
+*arrow up/down + enter*
 ```
 
 ## Secrets

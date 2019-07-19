@@ -1,5 +1,14 @@
 # Kubernetes Cheatsheet
 
+## Namespaces
+
+Switch namespace with [kns](https://github.com/blendle/kns)
+
+```
+$ kns
+*arrow up/down*
+```
+
 ## Secrets
 
 List all secrets

@@ -1,5 +1,16 @@
 # Kubernetes Cheatsheet
 
+## API
+
+```
+$ kubectl api-resources
+NAME                              SHORTNAMES     APIGROUP                                          NAMESPACED   KIND
+bindings                                                                                           true         Binding
+componentstatuses                 cs                                                               false        ComponentStatus
+configmaps                        cm                                                               true         ConfigMap
+...
+```
+
 ## Explain
 
 ```
